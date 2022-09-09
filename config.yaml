@@ -1,0 +1,6 @@
+#MSP(Go) configuration file
+
+# cache database data
+mspCacheFileName: "msp.cache"
+mspCacheDatabase: "msp"
+mspCacheCollection: "containers"
